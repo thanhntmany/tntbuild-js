@@ -16,5 +16,8 @@
     "url": "https://github.com/thanhntmany/tntbuild-js/issues"
   },
   "homepage": "https://github.com/thanhntmany/tntbuild-js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.0.1"
+  }
 }
