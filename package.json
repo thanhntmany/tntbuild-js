@@ -1,0 +1,20 @@
+{
+  "name": "tntbuild",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhntmany/tntbuild-js.git"
+  },
+  "author": "Thanh Nguyen Thuan <thanhntmany@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhntmany/tntbuild-js/issues"
+  },
+  "homepage": "https://github.com/thanhntmany/tntbuild-js#readme",
+  "description": ""
+}
